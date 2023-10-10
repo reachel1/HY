@@ -1,0 +1,10 @@
+%YAML:1.0
+
+lidar:
+  T_imu_lidar: #RLtoI pLinI
+    - [0.0, 1.0, 0.0, -0.1947]
+    - [1.0, 0.0, 0.0, 0.0]
+    - [0.0, 0.0, -1.0, -0.1971]
+    - [0.0, 0.0, 0.0, 1.0]
+  rostopic: /rslidar_points
+  update_rate: 10.0
