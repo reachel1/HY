@@ -1,1 +1,0 @@
-#timestamp(s) cam0 cam1 cam2 mono stereo observe
